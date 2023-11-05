@@ -140,3 +140,5 @@ new_/
 out/
 compile.sh
 kernel_build.log
+run.sh
+kernel_time.log
